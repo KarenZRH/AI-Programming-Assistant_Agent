@@ -1,4 +1,4 @@
-主Agent → 解题Agent，知识问答Agent，识图Agent，判题Agent，错误分析Agent，学情分析Agent，修改代码Agent
+主Agent → 解题Agent，知识问答Agent，识图Agent，判题Agent，错误分析Agent，学情分析Agent，修改代码Agent，提示与讲解Agent
 解题Agent → 判题Agent，提示与讲解Agent
 知识问答Agent → 主Agent
 识图Agent → 主Agent，解题Agent，知识问答Agent，判题Agent，学情分析Agent，修改代码Agent
